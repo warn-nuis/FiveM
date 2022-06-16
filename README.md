@@ -1,5 +1,4 @@
 # FiveM
-Scripts criados por min para a Warn Nuis
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
